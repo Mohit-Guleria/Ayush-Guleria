@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-guleria&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-guleria" /> </p>
 
-- 🌱 I’m currently learning **Laravel, WordPress**
+- 🌱 I’m currently learning **Shopify, WordPress**
 
 - 📫 How to reach me **mr.ayushguleria@gmail.com**
 
